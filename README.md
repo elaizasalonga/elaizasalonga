@@ -16,7 +16,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monaco&size=30&duration=7000&background=E4E4E400&lines=I'm+an+IT+student.;I+love+coding.;A+big+fan+of+anime...)](https://git.io/typing-svg)
 
-<img alt="Night Coding" src="[https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif](https://i.pinimg.com/originals/80/7e/f0/807ef06fd67648e7cc38070d6e311f70.gif)" align="right"/>
+<img alt="Night Coding" src="![image](https://github.com/elaizasalonga/elaizasalonga/assets/155804585/8983156f-119d-4aeb-98bc-66502d6153f8)
+" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
