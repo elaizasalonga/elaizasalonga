@@ -1,15 +1,18 @@
 <h1 align="center">Hi (˶ᵔ ᵕ ᵔ˶), I'm Elaiza Salonga</h1>
 <h3 align="center">A passionate student programmer from FEU Institute of Technology</h3>
 
- ✮⋆˙ I’m currently working on *https://github.com/elaizasalonga/AWD-Projects*
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
+✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
+💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 
- ✮⋆˙ I’m currently learning *backend programming, database programming, and object oriented programming*
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
- ✮⋆˙ All of my projects are available at [https://github.com/elaizasalonga/AWD-Projects](https://github.com/elaizasalonga/AWD-Projects)
+### 🛠 &nbsp;Tech Stack
 
- ✮⋆˙ How to reach me *elaiza.mharie@gmail.com*
-
- ✮⋆˙ Know about my experiences [https://github.com/elaizasalonga/AWD-Projects/tree/main/TSA1](https://github.com/elaizasalonga/AWD-Projects/tree/main/TSA1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
