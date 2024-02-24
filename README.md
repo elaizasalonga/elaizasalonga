@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there!
 
 
 <div align="center">
@@ -12,7 +12,8 @@
 - 😄 And a little bit of CSS, JavaScript, Java, and python!
 - 💖 I loveee to read and sometimes code.
 - 🔥 One is never too old to learn.
-
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monaco&size=30&duration=7000&background=E4E4E400&lines=Hey+I'm+preccrep!;I'm+a+IT+student.;I+love+coding.;A+big+fan+of+anime...)](https://git.io/typing-svg)
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
