@@ -9,9 +9,9 @@
 
 ### ABOUT ME
 - 🌷 My name is Elaiza from FEU Tech, welcome to my GitHub home page
-- 🌷I know HTML
+- 🌷 I know HTML
 - 🌷 And a little bit of CSS, JavaScript, Java, and python!
-- 🌷I loveee to read and sometimes code.
+- 🌷 I loveee to read and sometimes code.
 - 🌷 One is never too old to learn.
 
 
