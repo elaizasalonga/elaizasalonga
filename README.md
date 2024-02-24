@@ -1,4 +1,4 @@
-### Hi there!
+![image](https://github.com/elaizasalonga/elaizasalonga/assets/155804585/2029e5b0-ad6e-4148-87c3-317997f20485)### Hi there!
 
 
 <div align="center">
@@ -16,7 +16,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monaco&size=30&duration=7000&background=E4E4E400&lines=I'm+an+IT+student.;I+love+coding.;A+big+fan+of+anime...)](https://git.io/typing-svg)
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="[https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif](https://i.pinimg.com/originals/80/7e/f0/807ef06fd67648e7cc38070d6e311f70.gif)" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
