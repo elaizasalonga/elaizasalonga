@@ -2,7 +2,7 @@
 
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px" />
+    <img src="https://i.pinimg.com/originals/1e/d7/ef/1ed7efe4afd6dcc9e00bc9d57edb7c52.gif" height="120px" />
 </div>
 
 <br/>
