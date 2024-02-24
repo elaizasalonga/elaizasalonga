@@ -13,7 +13,16 @@
 - 💖 I loveee to read and sometimes code.
 - 🔥 One is never too old to learn.
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monaco&size=30&duration=7000&background=E4E4E400&lines=Hey+I'm+preccrep!;I'm+a+IT+student.;I+love+coding.;A+big+fan+of+anime...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monaco&size=30&duration=7000&background=E4E4E400&lines=I'm+an+IT+student.;I+love+coding.;A+big+fan+of+anime...)](https://git.io/typing-svg)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    57 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
+🌆 Daytime    87 commits     ██████░░░░░░░░░░░░░░░░░░░   26.93% 
+🌃 Evening    42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.0% 
+🌙 Night      137 commits    ██████████░░░░░░░░░░░░░░░   42.41%
+
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
